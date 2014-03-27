@@ -1,0 +1,4 @@
+Final Year Project repo
+
+Project on implementation of viterbi decoders on FPGA and comparing the results 
+of soft and hard decision viterbi decoders on MATLAB and FPGA using Xilinx and ModelSim
